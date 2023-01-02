@@ -1,0 +1,2 @@
+This folder contains script the script to explore the relationship between NME or MML and CpG density in human and mouse
+CpG_density_NME_MML.R This script generate the Figure 3 and Figure S15 as well as the correlation
