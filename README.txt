@@ -10,7 +10,7 @@ mouse_clustering_analysis: The code for generating mouse analysis
 mouse_correlation_analysis: The code for analyzing UC, dNME, dMML correlation inmouse
 mouse_motif_analysis: analzying mouse motif binding 
 preprocess_bam: merge, deduplicate and clip bam files
-QC: coverage and mbias analysis for bam files
+QC: coverage, mbias analysis for bam files, software comparison, cell type mixture simulation.
 TFBS_analysis_human: TFBS analysis in DNase and non-DNase regions in human
 TFBS_analysis_mouse: TFBS analysis in DNase and non-DNase regions in mouse
 UC_cutoff_test: regenerate figure for different UC UC_cutoff_test
