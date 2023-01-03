@@ -1,4 +1,4 @@
-This folde contains all code for the analysis
+This folder contains all code for the analysis
 dependencies.R: contains all dependencies and installing file for analysis
 file_path.R: contains all intermediate and final file locations
 mainFunctions_sub.R: contains all functions used in other scripts
