@@ -3,12 +3,12 @@ dependencies.R: contains all dependencies and installing file for analysis
 file_path.R: contains all intermediate and final file locations
 mainFunctions_sub.R: contains all functions used in other scripts
 CpG_density: The code for CpG density analysis in human and mouse
-human_motif_analysis: The code for analayzing the human allele-specific motif binding 
-MAV_analysis: The code for anlyzing the NME-MAV relationship in human and mouse
-MDS_plot: The code for generating MDS figure for mouse
+human_motif_analysis: The code for analyzing the human allele-specific motif binding 
+MAV_analysis: The code for analyzing the NME-MAV relationship in human and mouse
+MDS_plot: The code for generating MDS figure for the mouse
 mouse_clustering_analysis: The code for generating mouse analysis
-mouse_correlation_analysis: The code for analyzing UC, dNME, dMML correlation inmouse
-mouse_motif_analysis: analzying mouse motif binding 
+mouse_correlation_analysis: The code for analyzing UC, dNME, dMML correlation in mouse
+mouse_motif_analysis: analyzing mouse motif binding 
 preprocess_bam: merge, deduplicate and clip bam files
 QC: coverage, mbias analysis for bam files, software comparison, cell type mixture simulation.
 TFBS_analysis_human: TFBS analysis in DNase and non-DNase regions in human
